@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/Faabymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faabymartins
-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faabymartinss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faabymartins
 &layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
